@@ -1,32 +1,52 @@
 # Sammy
 
-### Applied AI Engineer. Building, breaking, and shipping.
+<table>
+<tr>
+<td>
 
-I build AI-powered web applications, developer tools, and open-source projects while exploring agentic systems and applied AI.
+**Applied AI Engineer. Building, breaking, and shipping.**
+
+</td>
+
+<td>
+
+[X](https://x.com/sammy_stackx) · [LinkedIn](https://www.linkedin.com/in/sammy-stacx/) · [Reddit](https://www.reddit.com/user/stack_byte/)
+
+</td>
+</tr>
+</table>
+
+I build AI-powered web applications, developer tools, and open-source projects while exploring applied AI and agentic systems.
 
 ## Open Source, Engineering & Programs
 
-- **Applied AI Engineer** — building AI-powered applications and developer-focused tools
+- **Applied AI Engineer** — building AI-powered web applications and intelligent developer tools
 - **Open Source Contributor** — contributing to open-source projects and developer communities
-- **Web Application Builder** — creating full-stack applications with modern web technologies
-- **AI & Agentic Systems** — exploring AI agents, LLM applications, and intelligent developer tools
-- **GSoC 2027 Aspirant** — preparing to contribute to open-source organizations and participate in Google Summer of Code 2027
-- **Open Source Projects** — building and shipping projects while learning through real-world engineering
+- **Web Application Builder** — building and shipping modern full-stack applications
+- **AI & Agentic Systems** — exploring LLM applications, AI agents, and intelligent workflows
+- **GSoC 2027 Aspirant** — preparing to contribute to open-source organizations through Google Summer of Code 2027
+- **Open Source Projects** — building, learning, and contributing through real-world engineering
 
 ## Currently Building
 
 - AI-powered web applications
 - AI agents and agentic workflows
 - Developer tools
-- Open-source projects
 - Full-stack applications
-- AI integrations and LLM-powered products
+- Open-source projects
+- LLM-powered products
 
 ## Tech Stack
 
-🐍 Python · ⚙️ C++ · 🟦 TypeScript · ⚛️ React · ▲ Next.js · ⚡ FastAPI · 🟢 Node.js · 🐘 PostgreSQL · 🔴 Redis · 🐳 Docker · ☁️ Google Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,react,nextjs,fastapi,nodejs,postgres,redis,docker,gcp,linux" />
+</p>
 
-🐧 Linux · OpenAI · ✨ Gemini · 🤖 Claude · 🔗 LangChain
+<p>
+<img src="https://skillicons.dev/icons?i=openai,gemini,claude" />
+</p>
+
+**AI / Frameworks:** OpenAI · Gemini · Claude · LangChain
 
 ## Goals
 
@@ -36,13 +56,8 @@ I build AI-powered web applications, developer tools, and open-source projects w
 - 🛠️ Build useful AI-powered products
 - 🤝 Collaborate with open-source communities
 
-## Connect With Me
+<br>
 
-- Portfolio
-- LinkedIn
-- X
-- GitHub
-
----
-
-> **Build. Break. Learn. Ship. Contribute.**
+<p align="center">
+  <b>Build. Break. Learn. Ship. Contribute.</b>
+</p>
