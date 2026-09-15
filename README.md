@@ -1,4 +1,4 @@
-# Sammy
+# Sam
 
 <table>
 <tr>
