@@ -24,7 +24,6 @@ I build AI-powered web applications, developer tools, and open-source projects w
 - **Open Source Contributor** — contributing to open-source projects and developer communities
 - **Web Application Builder** — building and shipping modern full-stack applications
 - **AI & Agentic Systems** — exploring LLM applications, AI agents, and intelligent workflows
-- **GSoC 2027 Aspirant** — preparing to contribute to open-source organizations through Google Summer of Code 2027
 - **Open Source Projects** — building, learning, and contributing through real-world engineering
 
 ## Currently Building
@@ -39,11 +38,11 @@ I build AI-powered web applications, developer tools, and open-source projects w
 ## Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,ts,react,nextjs,fastapi,nodejs,postgres,redis,docker,gcp,linux" />
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,react,nextjs,nodejs,postgres,redis,docker,gcp,tailwind"/>
 </p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=openai,gemini,claude" />
+<img src="https://skillicons.dev/icons?i=openai,gemini,claude"/>
 </p>
 
 **AI / Frameworks:** OpenAI · Gemini · Claude · LangChain
