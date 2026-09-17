@@ -38,7 +38,7 @@ I build AI-powered web applications, developer tools, and open-source projects w
 ## Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,ts,react,nextjs,nodejs,express,prisma,git,postman,postgres,redis,docker,gcp,tailwind,mongoose"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,react,nextjs,nodejs,express,prisma,git,postman,postgres,redis,docker,gcp,tailwind"/>
 </p>
 
 <p>
