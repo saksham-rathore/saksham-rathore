@@ -37,8 +37,6 @@ I build AI-powered web applications, developer tools, and open-source projects w
 
 ## 🛠️ Tech Stack
 
-### Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
