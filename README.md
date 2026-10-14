@@ -30,9 +30,7 @@ I build AI-powered web applications, developer tools, and open-source projects w
 
 - AI-powered web applications
 - AI agents and agentic workflows
-- Developer tools
 - Full-stack applications
-- Open-source projects
 - LLM-powered products
 
 ## 🛠️ Tech Stack
@@ -56,9 +54,8 @@ I build AI-powered web applications, developer tools, and open-source projects w
 ## Goals
 
 - 🚀 Become a strong Applied AI Engineer
-- 🌍 Make meaningful open-source contributions
-- 🏆 Get selected for **GSoC 2027**
 - 🛠️ Build useful AI-powered products
+- 🌍 Make meaningful open-source contributions
 - 🤝 Collaborate with open-source communities
 
 <br>
