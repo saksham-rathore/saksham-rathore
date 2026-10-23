@@ -33,7 +33,7 @@ I build AI-powered web applications, developer tools, and open-source projects w
 - Full-stack applications
 - LLM-powered products
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -53,10 +53,10 @@ I build AI-powered web applications, developer tools, and open-source projects w
 
 ## Goals
 
-- 🚀 Become a strong Applied AI Engineer
-- 🛠️ Build useful AI-powered products
-- 🌍 Make meaningful open-source contributions
-- 🤝 Collaborate with open-source communities
+-  Become a strong Applied AI Engineer
+-  Build useful AI-powered products
+-  Make meaningful open-source contributions
+-  Collaborate with open-source communities
 
 <br>
 
