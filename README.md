@@ -52,7 +52,3 @@ I build AI-powered web applications, developer tools, and open-source projects w
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
 <br>
-
-<p align="center">
-  <img src="./animeplayers.png" alt="Haikyuu Anime Players" width="600" />
-</p>
