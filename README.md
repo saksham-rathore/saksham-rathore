@@ -50,12 +50,6 @@ I build AI-powered web applications, developer tools, and open-source projects w
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-
-## Goals
-
--  Become a strong Applied AI Engineer
--  Build useful AI-powered products
--  Make meaningful open-source contributions
 -  Collaborate with open-source communities
 
 <br>
