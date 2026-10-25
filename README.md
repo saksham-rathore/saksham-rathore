@@ -50,10 +50,9 @@ I build AI-powered web applications, developer tools, and open-source projects w
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
--  Collaborate with open-source communities
 
 <br>
 
 <p align="center">
-  <b>Build. Break. Learn. Ship. Contribute.</b>
+  <img src="./animeplayers.png" alt="Haikyuu Anime Players" width="600" />
 </p>
